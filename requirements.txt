@@ -1,5 +1,6 @@
+build
 coverage
-flake8
+flake8<5.0.0
 flake8-docstrings
 flake8-html
 lxml
